@@ -2,13 +2,11 @@
 
 **🔗 Demo: https://tgvie.github.io/MI-toughcookie/**
 
-This repository contains my completed assignment for a mock-client project, designed to create a one-page website for a fictional client, as part of my coursework in the **HTML & CSS course**. The site was designed to follow a given brief and specifications, with additional design decisions made based on my own interpretation due to the absence of clear guidelines on some details.
+This project is for a fictional client from my HTML & CSS course. I built a pixel-perfect one-page website based on a given brief and design, filling in missing details with my own design choices. The project shows my ability to follow instructions, make design decisions, and build a static site using only HTML and CSS, with no JavaScript.
 
-This project showcases my ability to work within a given brief, make informed design decisions, and implement a one-page layout without JavaScript.
-
-### 🗝️ Key Features
-| 🎯 |   |
-| -- | - |
+### ✨ Featuring
+|   |   |
+| - | - |
 | One-Page layout | The website is a "one-pager," meaning users scroll vertically through content rather than navigating across multiple pages |
 | Responsive Layout | The brief was incomplete regarding the mobile layout, so I inferred the design based on the provided assets to ensure a mobile-friendly experience |
 | JavaScript-free | No JavaScript was required for this project, so all interactions are CSS-based |
